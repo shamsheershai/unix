@@ -1,3 +1,9 @@
+vim editor has mainly 2 modes:
+ insert mode:the elements can be inserted using this mode by clicking the insert button or A in the keyword.
+ commaand mode:to enter this mode we need to press esc key in the keyword which lets to various modification and operation.
+vim_filename.txt=create new vimtext editor
+mkdir_filename=command to create directorty of newfolder in terminal.
+cd_filename=to open the file using directory  
 x-to delete unwanted char
 u-to undo 
 ctrl r - to redo
