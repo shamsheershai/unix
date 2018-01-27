@@ -1,0 +1,48 @@
+                                                           SOME OF THE IMPORTANT COMMANDS
+who -   shows information about users who are currently logged in.
+some of the who sub_commands are:
+  -a, --all
+              same as -b -d --login -p -r -t -T -u
+
+       -b, --boot
+              time of last system boot
+
+       -d, --dead
+              print dead processes
+
+       -H, --heading
+              print line of column headings
+
+       --ips  print ips instead of hostnames. with --lookup, canonicalizes based on stored IP, if available, rather than stored hostname
+
+       -l, --login
+              print system login processes
+
+       --lookup
+              attempt to canonicalize hostnames via DNS
+
+       -m     only hostname and user associated with stdin
+
+       -p, --process
+              print active processes spawned by init
+
+       -q, --count
+              all login names and number of users logged on
+
+       -r, --runlevel
+              print current runlevel
+
+       -s, --short
+              print only name, line, and time (default)
+ here some of simple commands no prefix required by default we have $ we can direct access to these command.
+cal- opens calendar 
+
+time- displays time
+
+date- displays date
+
+bc-acts as calculator
+
+ls- Lists information  about  the FILEs
+man ls- user manual of list 
+
